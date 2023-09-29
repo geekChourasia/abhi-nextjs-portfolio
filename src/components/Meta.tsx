@@ -12,8 +12,8 @@ type IMeta = {
 
 const Meta: React.FC<IMeta> = ({
   title,
-  description = "A ReactJS/React Native developer, Android developer, UI / UX designer and tech enthusiast.",
-  keywords = "React, Android, Javascript, Typescript ,Kotlin, Java",
+  description = "A ReactJS/TypeScript developer,tech enthusiast.",
+  keywords = "React,Javascript, Typescript ,Redux Saga, Java",
   image = "https://res.cloudinary.com/teo1996/image/upload/v1681184234/lkauudqm9kgkrkmt6mvv.png",
 }) => {
   const router = useRouter();
