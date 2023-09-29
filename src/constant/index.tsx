@@ -102,7 +102,7 @@ const webTechStacks = [
   {
     name: "React",
     icon: <FaReact fontSize="20px" />,
-    url: "https://reactnative.dev/",
+    url: "https://react.dev/",
   },
   {
     name: "NextJS",
@@ -177,7 +177,7 @@ const companies = [
   {
     title: "Newton School",
     alt: "newton school image",
-    url: "https://www.qumonintelligence.com/",
+    url: "https://www.newtonschool.co/",
     role: "Software Engineer Intern",
     skills: [
       "JavaScript",

@@ -74,7 +74,7 @@ const ProfileSection: React.FC<IProfileSection> = ({ song }) => {
         </Link>
         {" & "}
      
-        {"\n"}applications, collaborating across teams for high-quality solutions {" "}
+        {"\n"}applications, collaborating across teams for high-quality solutions . {" "}
         🔥
       </Paragraph>
 
