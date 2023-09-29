@@ -42,11 +42,6 @@ function About() {
               <Heading>About Me</Heading>
             </Flex>
           </UnderlinedText>
-          {/* <Paragraph textProps={{ fontSize: "lg", lineHeight: 1.6, my: 5 }}>
-            I am a web developer with 2 years ++ working experience. My
-            developer journey started with Web Developer(React Js) during my internship.
-            After graduation, this journey continued with TypeScript(React) .👔
-          </Paragraph> */}
 
           <Paragraph textProps={{ fontSize: "lg", lineHeight: 1.6, my: 5 }}>
           Experienced Frontend Engineer with 2+ years in ReactJS, HTML, CSS, and JavaScript. Proficient in Material UI, ECMAScript, Node.js, and MongoDB. Collaborative team player crafting dynamic, responsive, and visually engaging web apps. Currently mastering Next.js for more advanced web development. Eager to embrace new challenges! 🔥
