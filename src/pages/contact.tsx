@@ -147,7 +147,7 @@ const ContactPage: React.FC<IContactPage> = ({
                         bg={useColorModeValue("gray.100", "gray.900")}
                       />
                     </FormControl>
-                    <Link target="_blank" href={"https://docs.google.com/forms/d/e/1FAIpQLSfgECyGJg9AgqABTqHHgkqnioXAfSarq7j9Q4WJKCC_v1G8XQ/viewform?usp=sf_link"} style={{ textDecoration: "none" }}>
+                    <Link target="_blank" href={"https://docs.google.com/forms/d/e/1FAIpQLSfgECyGJg9AgqABTqHHgkqnioXAfSarq7j9Q4WJKCC_v1G8XQ/viewform"} style={{ textDecoration: "none" }}>
             {/* <Button
               colorScheme="blue"
               size="sm"
