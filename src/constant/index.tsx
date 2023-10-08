@@ -70,7 +70,7 @@ const siteConfig = {
 };
 
 const resume = {
-  url: "https://drive.google.com/file/d/10QjFLaDnnmXeGYLxTBMS4UpMqzYDBln0/view?usp=drive_link",
+  url: "https://drive.google.com/file/d/1L6Vf-0_gEq8MGL2ZpQypfZ3se2mELYX2/view?usp=sharing",
   icon: <CgAlbum />,
   name: "Resume",
 };
