@@ -166,6 +166,15 @@ const otherTechStacks = [
 
 const companies = [
   {
+    title: "Designing Solutions",
+    alt: "Designing Solutions image",
+    url: "https://designingsolutions.co.in/",
+    role: "UI Engineer",
+    skills: ["React","TypeScript", "MUI", "Redux Toolkit", "Javascript","Story Book","Jira"],
+    period: "Nov 2023 - Present",
+    logo: "/DS-logo.png",
+  },
+  {
     title: "Logichive Solutions",
     alt: "logichive image",
     url: "https://logichive.in/",
