@@ -48,7 +48,7 @@ const ProfileSection: React.FC<IProfileSection> = ({ song }) => {
           fontSize={{ base: "28px", md: "40px", lg: "48px" }}
           mb={3}
         >
-          Hey, I am Abhi ! <span className="waving-hand">👋</span>
+          Hey, I am Abhishek Chourasia ! <span className="waving-hand">👋</span>
         </Heading>
         <MotionFlex alignItems={"flex-end"} whileHover={{ scale: 1.2 }}>
           <Avatar
@@ -60,10 +60,10 @@ const ProfileSection: React.FC<IProfileSection> = ({ song }) => {
         </MotionFlex>
       </MotionFlex>
       <Paragraph textProps={{ fontSize: "2xl", lineHeight: 1.6 }}>
-        Front-End Engineer from India 🇮🇳
+      Full Stack Engineer from India 🇮🇳
       </Paragraph>
       <Paragraph textProps={{ fontSize: "2xl", lineHeight: 1.6 }}>
-        2+ years experience creating dynamic, visually appealing   
+      2.5+ years experience creating dynamic, visually appealing   
         <Link
           color={useColorModeValue("blue.500", "blue.400")}
           href="https://www.android.com/"

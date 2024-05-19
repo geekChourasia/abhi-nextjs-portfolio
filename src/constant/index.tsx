@@ -144,6 +144,11 @@ const webTechStacks = [
     icon: <SiMui fontSize="20px" />,
     url: "https://mui.com/",
   },
+  {
+    name: "Node JS",
+    icon: <SiMui fontSize="20px" />,
+    url: "https://nodejs.org/en",
+  },
 ];
 
 const otherTechStacks = [
@@ -151,6 +156,11 @@ const otherTechStacks = [
     name: "CI/CD - Fastlane",
     icon: <SiFastlane fontSize="20px" />,
     url: "https://fastlane.tools/",
+  },
+  {
+    name: "Jira",
+    icon: <SiFastlane fontSize="20px" />,
+    url: "",
   },
   {
     name: "Firebase",
@@ -265,6 +275,41 @@ const sideProjects = [
       "Redux Saga"
     ]
   },
+
+  {
+    name: "School Days 365",
+    imageUrl: "/schooldays365.png",
+    alt: "schooldays365",
+    summary: "Students craft their own yearbook pages using facial recognition technology, ensuring personalization and uniqueness. Each edition celebrates individuality, capturing memories and milestones while fostering a sense of ownership within the school community.",
+    link:"https://school.schooldays365.com/sign-in",
+    tech: [
+      'TypeScript',
+      "TailwindCSS",
+      "MUI",
+      "Ant Design",
+      "Redux Toolkit",
+      "Node JS",
+      "AWS S3(Bucket)"
+    ]
+  },
+
+  {
+    name: "Skill Lab",
+    imageUrl: "/skill-lab.png",
+    alt: "skill-lab",
+    summary: "A skill-lab platform where students serve MSMEs, earning rewards based on their contributions to the sector's growth and development.",
+    link:"https://school.schooldays365.com/sign-in",
+    tech: [
+      "React",
+      'TypeScript',
+      "TailwindCSS",
+      "MUI",
+      "Ant Design",
+      "Redux Toolkit",
+      "Node JS",
+    ]
+  },
+
  
 ];
 

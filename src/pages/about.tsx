@@ -44,7 +44,7 @@ function About() {
           </UnderlinedText>
 
           <Paragraph textProps={{ fontSize: "lg", lineHeight: 1.6, my: 5 }}>
-          Experienced Frontend Engineer with 2+ years in ReactJS, HTML, CSS, and JavaScript. Proficient in Material UI, ECMAScript, Node.js, and MongoDB. Collaborative team player crafting dynamic, responsive, and visually engaging web apps. Currently mastering Next.js for more advanced web development. Eager to embrace new challenges! 🔥
+          Experienced Full Stack Engineer with 2.5+ years in ReactJS, TypeScipt, HTML, CSS, MUI, Redux, Node JS, SQL  and JavaScript. Proficient in Material UI, ECMAScript, Node.js, and MongoDB. Collaborative team player crafting dynamic, responsive, and visually engaging web apps. Currently mastering Next.js for more advanced web development. Eager to embrace new challenges! 🔥
           </Paragraph>
 
           <Flex alignItems="center" my={10}>
